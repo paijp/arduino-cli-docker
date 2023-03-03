@@ -6,3 +6,7 @@ cd /root/
 arduino-cli compile --fqbn SeeedJP:Seeed_STM32F4:wioGpsM4 led
 arduino-cli upload --fqbn SeeedJP:Seeed_STM32F4:wioGpsM4 led
 ```
+
+# sample.
+
+- led.ino for Wio-LTE.
