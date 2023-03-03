@@ -1,4 +1,4 @@
-# 'arduino-cli-docker' is a Dockerfile that you compile and upload to the arduino in a container.
+# 'arduino-cli-docker' is a Dockerfile that you can compile and upload to the arduino in a container.
 
 ```
 docker run -it --name actest --device=/dev/bus/usb:/dev/bus/usb arduino-cli bash
